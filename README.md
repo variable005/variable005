@@ -2,7 +2,7 @@
 <h3 align="center">Robotics • Android • IoT • Automation • Hackathons</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Founder+of+Team+ARDUBOTZ;Robotics+%26+Automation+Developer;Jetpack+Compose+%7C+ESP32+%7C+IoT+Systems;Tech+Workshop+Host;Hackathon+Enthusiast+%F0%9F%9A%80" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&color=000000&width=500&lines=Robotics+%26+Automation+Developer;Jetpack+Compose+%7C+ESP32+%7C+IoT+Systems;Tech+Workshop+Host;Hackathon+Enthusiast+%F0%9F%9A%80" alt="Typing" />
 </p>
 
 ---
@@ -34,13 +34,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hom&show_icons=true&theme=default" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hom&theme=default" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=variable005&show_icons=true&theme=default" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=variable005&theme=default" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hom&layout=compact&theme=default" width="47%" />
-  <img src="https://komarev.com/ghpvc/?username=Hom&label=Profile+Views&color=blue&style=flat" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=variable005&layout=compact&theme=default" width="47%" />
+  <img src="https://komarev.com/ghpvc/?username=variable005&label=Profile+Views&color=blue&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -58,11 +58,9 @@
 
 <p>
   <a href="https://linkedin.com/in/hariom-sharnam"><img src="https://img.shields.io/badge/LinkedIn-Hariom%20Sharnam-blue?style=flat&logo=linkedin"></a>
-  <a href="https://github.com/Hom"><img src="https://img.shields.io/badge/GitHub-Hom-181717?style=flat&logo=github"></a>
+  <a href="https://github.com/variable005"><img src="https://img.shields.io/badge/GitHub-variable005-181717?style=flat&logo=github"></a>
 </p>
 
 ---
 
 > _"The 'worthwhile' aspect wasn't in idealism. It was in the flawed, yet functioning, reality that emerged from the effort."_
-
----
