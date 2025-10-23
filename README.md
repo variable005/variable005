@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I'm Hariom Sharnam</h1>
 <h3 align="center">Robotics • Android • IoT • Automation</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&color=000000&width=500&lines=Robotics+%26+Automation+Developer;Jetpack+Compose+%7C+ESP32+%7C+IoT;Tech+Workshop+Host;Hackathon+Enthusiast" alt="Typing" />
-</p>
-
 ---
 
 ## About Me
