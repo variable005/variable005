@@ -1,40 +1,68 @@
-<h1 align="center">Hi, I'm Hariom Sharnam</h1>
-<h3 align="center">Robotics • Android • IoT • Automation</h3>
----
+## Hariom Sharnam
+**Robotics • Embedded Systems • Android • Automation**
 
-## About Me
-I am a **technology enthusiast and robotics innovator** pursuing a dual **BCA-MCA program** at Amity University Patna. I focus on **embedded systems, mobile apps, and robotics**. I am the **founder of Team ARDUBOTZ**, leading teams in competitions to build **innovative robotic solutions**.
+I design, build, and lead **robotics and embedded systems projects**, with a focus on **competition-grade robots**, **ESP32-based systems**, and **Android applications**.
+
+Founder of **Team ARDUBOTZ** and **MuxBots**, where I lead teams in national and international robotics competitions, including multi-event challenges in autonomous robotics and drone systems.
 
 ---
 
 ## Achievements
-- **Gold Medalist**, WRC 2025 – Line Follower  
-- 1st Place, Innovation Festival 2025  
-- 2nd Place, RoboSoccer WRC 2023  
-- BETA 2019 Winner for Excellence in Technology  
+- **1st Place (Senior Category)** – Innovation Festival 2025  
+- **2nd Place** – RoboSoccer, World Robotics Championship 2023  
+- **BETA 2019 Winner** – Excellence in Technology Solutions  
+- **1st Runner-up** – Orlank Techno Conclave 2022  
+- **2nd Place** – RoboRace, Samarpan 1.0 (2024)  
 - Invited to **DPMI** to present team projects  
 
 ---
 
-## Skills
-- **Programming:** Java, Python, C++, Android Development  
-- **Robotics & Automation:** RoboSoccer, battle bot design  
-- **IoT & Embedded Systems:** ESP32, Arduino, sensor integration  
-- **Mobile App Dev:** Jetpack Compose, UI/UX design  
+## Competition & Event Participation
+- **Technoxian World Robotics Championship 2024**  
+  RoboHockey, Drone Rescue, Innovation Challenge  
+- **Celesta 2023 (IIT Patna Robotics Fest)**  
+  RoboSoccer, DeathRace  
+- **World Robotics Olympiad** – Team RoboInnovators (2018, 2019)  
+- **IIT Patna Drone X Challenge 2024**  
+- **Innovation Festival 2019** – Srikrishna Science Center  
+- **47th State-Level Science, Environment & Maths Exhibition** (Bihar, 2019)  
+- **HackFest 2025 (IIT Dhanbad)** – Team Lead  
+- **Google DevFest 2024** – Attendee  
+- **XR Creator Hackathon, Patna** – Attendee  
 
 ---
 
-## Projects
-- **ESP32 Dual OLED Motion Visualizer** – Real-time motion tracking with **MPU6050 IMU**  
-- **ESP32 Wi-Fi Signal Dashboard** – Web UI for monitoring signal strength & devices  
-- **HectoClash** – Fast-paced mental math duel game  
-- **HEED (Rebuild)** – Accessibility app with speech-to-text & camera features  
+## Workshop & Training Experience
+- Conducted **robotics workshops** at Neo Inventive Lab (2023)  
+- Led **Arduino hands-on sessions**  
+- Facilitated a **STEM workshop** at Abundant Life Foundation (July 29, 2024)  
+- Collaborated with Neo Inventive for **summer camp workshops**  
+- Delivered an **IoT session** during Techphilia 8.0  
+- Conducted **IoT, Robotics, and Programming workshops** at Kilkari Patna  
 
 ---
 
-## Connect With Me
-<p>
-  <a href="https://linkedin.com/in/hariom-sharnam"><img src="https://img.shields.io/badge/LinkedIn-Hariom%20Sharnam-blue?style=flat&logo=linkedin"></a>
-  <a href="https://github.com/variable005"><img src="https://img.shields.io/badge/GitHub-variable005-181717?style=flat&logo=github"></a>
-  <a href="mailto:hariomsharnam288@gmail.com"><img src="https://img.shields.io/badge/Email-hariomsharnam288@gmail.com-red?style=flat&logo=gmail"></a>
-</p>
+## Technical Skills
+- **Programming:** C++, Android Development, basic Web3  
+- **Robotics & Automation:** RoboSoccer systems, line follower robots  
+- **Embedded & IoT:** ESP32, Arduino, sensor integration  
+- **Mobile Applications:** UI/UX-focused Android apps (including *DoT*)  
+- **Leadership:** Team management, system design, competition execution  
+
+---
+
+## What I Work On
+- **Robotics:** RoboSoccer, autonomous competition robots  
+- **Embedded & IoT:** ESP32 systems, sensors, system design  
+- **Android:** UI-focused and accessibility-oriented applications  
+- **Team Leadership:** System architecture, build delegation, execution  
+
+---
+
+## Selected Projects
+- **ESP32 Dual OLED Motion Visualizer** – IMU-driven real-time motion visualization  
+- **ESP32 Wi-Fi Signal Dashboard** – Web-based monitoring and diagnostics  
+- **HEED (Rebuild)** – Accessibility-focused Android application  
+
+---
+*The worthwhile part wasn’t idealism. It was the flawed, functioning reality that emerged from effort.*
