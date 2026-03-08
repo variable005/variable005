@@ -14,6 +14,7 @@ Founder of **Team ARDUBOTZ** and **MuxBots**, where I lead teams in national and
 - **1st Runner-up** – Orlank Techno Conclave 2022  
 - **2nd Place** – RoboRace, Samarpan 1.0 (2024)  
 - Invited to **DPMI** to present team projects  
+- runnerup robo race BIT MESRA Patna 
 
 ---
 
