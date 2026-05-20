@@ -8,17 +8,23 @@ Founder of **Team ARDUBOTZ** and **MuxBots**, where I lead teams in national and
 ---
 
 ## Achievements
+- **Winner** – Innovation Festival 2026  
+- **Gold Winner** – World Robotics Championship 2025 (Fastest Line Follower)  
+- **Winner** – BIT Mesra Robotics Competition 2026  
 - **1st Place (Senior Category)** – Innovation Festival 2025  
 - **2nd Place** – RoboSoccer, World Robotics Championship 2023  
 - **BETA 2019 Winner** – Excellence in Technology Solutions  
 - **1st Runner-up** – Orlank Techno Conclave 2022  
 - **2nd Place** – RoboRace, Samarpan 1.0 (2024)  
 - Invited to **DPMI** to present team projects  
-- runnerup robo race BIT MESRA Patna 
+- **Runner-up** – RoboRace, BIT Mesra Patna  
+- **Runner-up** – RoboSoccer & RoboRace, IIT Dhanbad 2026
 
 ---
 
 ## Competition & Event Participation
+- **Technoxian World Robotics Championship 2025**  
+  Fastest Line Follower (Gold Winner)  
 - **Technoxian World Robotics Championship 2024**  
   RoboHockey, Drone Rescue, Innovation Challenge  
 - **Celesta 2023 (IIT Patna Robotics Fest)**  
@@ -40,6 +46,8 @@ Founder of **Team ARDUBOTZ** and **MuxBots**, where I lead teams in national and
 - Collaborated with Neo Inventive for **summer camp workshops**  
 - Delivered an **IoT session** during Techphilia 8.0  
 - Conducted **IoT, Robotics, and Programming workshops** at Kilkari Patna  
+- Conducted **IoT and Robotics workshops** at Patna Women's College  
+- Conducted **3D printing workshops**
 
 ---
 
