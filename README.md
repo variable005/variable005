@@ -1,3 +1,4 @@
+```txt
 Normal is negotiated.
 
 Machines don't know what "normal" is.
@@ -14,3 +15,4 @@ Sometimes they work.
 Usually they get rebuilt.
 
 Currently occupied with making sensors a little less stupid.
+```
