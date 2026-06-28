@@ -1,5 +1,3 @@
-# Hariom Sharnam
-
 Normal is negotiated.
 
 Machines don't know what "normal" is.
